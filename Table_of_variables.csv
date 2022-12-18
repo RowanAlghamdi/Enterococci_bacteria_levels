@@ -1,0 +1,10 @@
+Variable,Description,R Classification ,Changed To
+Beach ID,Identification number of Site,Number ,Integer
+Region,Sydney Northern Ocean Beaches,Character ,Factor 
+Council,Northern Beaches Council,Character ,Factor 
+Site,Official name of the beach,Character ,Factor 
+Longitude,Location of which sample was taken,Number ,Unchanged
+Latitude,Location of which sample was taken,Number ,Unchnaged 
+Date,Date of which sample was taken ,Character ,Factor 
+Enterococci (cfu/100ml),Measurement of bacteria level in colony-forming per 100mL,Character ,Integer 
+Month,Month of which sample was taken,Character ,Factor 
